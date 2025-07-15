@@ -1,7 +1,4 @@
 //05 Operators
-
-import java.lang.*;
-
 public class Operators{
 	public static void main(String args[]){
 		

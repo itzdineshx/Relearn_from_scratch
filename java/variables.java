@@ -1,5 +1,4 @@
 //04 variables
-import java.lang.*;
 
 class variables{
 	public static void main(String args[]){

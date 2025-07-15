@@ -1,4 +1,3 @@
-import java.lang.*;
 
 class command{
 	public static void main(String args[]){

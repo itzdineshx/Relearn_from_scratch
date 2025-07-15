@@ -7,7 +7,6 @@
 		double -> float -> long -> int -> chat -> short -> byte
 */
 
-import java.lang.*;
 
 class casting{
 	public static void main(String args[])

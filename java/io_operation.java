@@ -1,9 +1,9 @@
 //io operations
-import java.lang.*;
 import java.util.*;
 
 class io_operation{
 	public static void main(String args[]){
+		@SuppressWarnings("resource")
 		Scanner in = new Scanner(System.in);
 		int a,b,c;
 		System.out.println("Enter two numbers to add");
